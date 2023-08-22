@@ -1,0 +1,30 @@
+[
+  {
+    "name": "main",
+    "path": "/main",
+    "component": "/Users/bangjiwon/jeewon/jiwon-learn-nuxt/pages/main.vue",
+    "chunkName": "pages/main",
+    "_name": "_f1e6cd14"
+  },
+  {
+    "name": "product",
+    "path": "/product",
+    "component": "/Users/bangjiwon/jeewon/jiwon-learn-nuxt/pages/product/index.vue",
+    "chunkName": "pages/product/index",
+    "_name": "_bcb88d76"
+  },
+  {
+    "name": "product-main",
+    "path": "/product/main",
+    "component": "/Users/bangjiwon/jeewon/jiwon-learn-nuxt/pages/product/main.vue",
+    "chunkName": "pages/product/main",
+    "_name": "_694bd596"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/bangjiwon/jeewon/jiwon-learn-nuxt/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_3bfb7165"
+  }
+]
